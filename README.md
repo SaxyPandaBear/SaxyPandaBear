@@ -3,8 +3,8 @@ SaxyPandaBear
 
 # About Me
 
-- 🔭 I’m currently working on the AWS [CloudWatch agent](https://github.com/aws/amazon-cloudwatch-agent)
-- 🌱 I’m currently learning how to do things elegantly and quickly in Golang
+- 🔭 I no longer work on the AWS [CloudWatch agent](https://github.com/aws/amazon-cloudwatch-agent)
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saxypandabear/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: **I do in fact play the saxophone (and piano).**
