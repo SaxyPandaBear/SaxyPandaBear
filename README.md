@@ -10,7 +10,7 @@ SaxyPandaBear
 - ⚡ Fun fact: **I do in fact play the saxophone (and piano).**
 
 # Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=SaxyPandaBear&show_icons=true&theme=radical)
+[![Andrew's GitHub stats](https://github-stats-extended.vercel.app/api?username=SaxyPandaBear)](https://github.com/stats-organization/github-stats-extended)
 
 -----------------------------------------------------------------------------------------------------------------
 ⭐️ From [SaxyPandaBear](https://github.com/SaxyPandaBear)
